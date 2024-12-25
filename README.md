@@ -53,12 +53,19 @@ Abra o arquivo index.html no seu navegador preferido.
 📂 Estrutura do Projeto:
 
 Oficina-III-completa-/
+
 ├── CSS/
+
 │   └── estilo.css
+
 ├── IMG/
+
 │   └── (imagens utilizadas no site)
+
 ├── HTML/
+
 │   └── index.html
+
 └── README.md
 
 
