@@ -1,4 +1,4 @@
-## 🌐| Web Site | HTML + CSS: Tóquio, um lugar a se conhecer!
+## 🌐| Web Site: Tóquio, um lugar a se conhecer!
 
 Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando HTML e CSS para criar uma página web informativa e visualmente atraente sobre a cidade que mais tenho vontade de conhecer: Tóquio. 🗼🌃🇯🇵
 
@@ -6,17 +6,17 @@ Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi
 
 [Sobre o projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
-Tecnologias Utilizadas
+[Tecnologias Utilizadas](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
-Como Executar o Projeto
+[Como Executar o Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
-Estrutura do Projeto
+[Estrutura do Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
-Contribuição
+[Contribuição](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
-Licença
+[Licença](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
-Contato
+[Contato](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
 ## 📋| Sobre o Projeto
 Neste projeto, criei um site que destaca as maravilhas de Tóquio, uma cidade vibrante e cheia de cultura. Utilizei conceitos básicos de HTML e CSS para desenvolver este site, que inclui informações sobre pontos turísticos, cultura, gastronomia e muito mais.
