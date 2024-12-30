@@ -34,19 +34,27 @@ ________________________________________________________________________________
 
 Para visualizar o site localmente, siga estas etapas:
 
+```
+
 git clone https://github.com/BackandDeveloper/Oficina-III-completa-.git
 
-Navegue até o diretório do projeto:
-
-bash
-
-cd Oficina-III-completa-
+```
 
 Navegue até o diretório do projeto:
 
-bash
+```bash
 
 cd Oficina-III-completa-
+
+```
+
+Navegue até o diretório do projeto:
+
+```bash
+
+cd Oficina-III-completa-
+
+```
 
 Abra o arquivo index.html no seu navegador preferido.
 
