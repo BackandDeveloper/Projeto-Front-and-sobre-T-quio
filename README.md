@@ -1,8 +1,8 @@
-🌆| Web Site: Tóquio, um lugar a se conhecer!
+## 🌆| Web Site: Tóquio, um lugar a se conhecer!
 
 Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando HTML e CSS para criar uma página web informativa e visualmente atraente sobre a cidade que mais tenho vontade de conhecer: Tóquio. 🗼
 
-📋| Índice:
+## 📋| Índice:
 
 Sobre o Projeto
 
@@ -18,11 +18,11 @@ Licença
 
 Contato
 
-🌟 Sobre o Projeto
+## 🌟| Sobre o Projeto
 Neste projeto, criei um site que destaca as maravilhas de Tóquio, uma cidade vibrante e cheia de cultura. Utilizei conceitos básicos de HTML e CSS para desenvolver este site, que inclui informações sobre pontos turísticos, cultura, gastronomia e muito mais.
 ____________________________________________________________________________________________________________________________________
 
-🛠️ Tecnologias Utilizadas:
+## 🛠️ Tecnologias Utilizadas:
 
 HTML: Estrutura do site
 
@@ -30,7 +30,7 @@ CSS: Estilização e layout
 
 ____________________________________________________________________________________________________________________________________
 
-🚀 Como Executar o Projeto:
+## 🚀 Como Executar o Projeto:
 
 Para visualizar o site localmente, siga estas etapas:
 
@@ -52,22 +52,17 @@ Abra o arquivo index.html no seu navegador preferido.
 
 📂 Estrutura do Projeto:
 
+```
 Oficina-III-completa-/
-
 ├── CSS/
-
 │   └── estilo.css
-
 ├── IMG/
-
 │   └── (imagens utilizadas no site)
-
 ├── HTML/
-
 │   └── index.html
-
 └── README.md
 
+```
 
 🤝 Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para enviar um pull request.
