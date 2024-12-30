@@ -10,7 +10,7 @@ Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi
 
 [Como Executar o Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#%EF%B8%8F-estrutura-do-projeto)
 
-[Estrutura do Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
+[Estrutura do Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#%EF%B8%8F-estrutura-do-projeto)
 
 [Contribuição](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
