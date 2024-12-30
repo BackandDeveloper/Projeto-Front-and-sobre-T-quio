@@ -72,8 +72,8 @@ Oficina-III-completa-/
 
 ```
 
-## 🤝| Contribuição
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para enviar um pull request.
+## 👥| Contribuição
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para enviar e-mail solicitando.
 
 ## 📄| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
