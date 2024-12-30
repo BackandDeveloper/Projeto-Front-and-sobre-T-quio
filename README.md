@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi
 
 ## 📋| Índice:
 
-[![Sobre o projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
+[Sobre o projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
 Tecnologias Utilizadas
 
@@ -24,9 +24,9 @@ ________________________________________________________________________________
 
 ## 💻| Tecnologias Utilizadas:
 
-HTML: Estrutura do site
+📝| HTML: Estrutura do site
 
-CSS: Estilização e layout
+🖌️| CSS: Estilização e layout
 
 ____________________________________________________________________________________________________________________________________
 
