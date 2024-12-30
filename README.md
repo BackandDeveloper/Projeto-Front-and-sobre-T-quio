@@ -1,6 +1,6 @@
 ## 🌐| Web Site | HTML + CSS: Tóquio, um lugar a se conhecer!
 
-Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando HTML e CSS para criar uma página web informativa e visualmente atraente sobre a cidade que mais tenho vontade de conhecer: Tóquio. 🗼
+Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando HTML e CSS para criar uma página web informativa e visualmente atraente sobre a cidade que mais tenho vontade de conhecer: Tóquio. 🗼🌃🇯🇵
 
 ## 📋| Índice:
 
