@@ -14,7 +14,7 @@ Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi
 
 [Contribuição](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-contribui%C3%A7%C3%A3o)
 
-[Licença](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
+[Licença](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-licen%C3%A7a)
 
 [Contato](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
