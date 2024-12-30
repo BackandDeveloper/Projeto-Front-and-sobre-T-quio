@@ -8,7 +8,7 @@ Bem-vindo ao repositório do meu projeto de site sobre Tóquio! Este projeto foi
 
 [Tecnologias Utilizadas](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-sobre-o-projeto)
 
-[Como Executar o Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
+[Como Executar o Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#%EF%B8%8F-como-executar-o-projeto)
 
 [Estrutura do Projeto](https://github.com/BackandDeveloper/Projeto-Front-and-sobre-T-quio/blob/main/README.md#-%C3%ADndice)
 
